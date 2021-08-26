@@ -1,0 +1,47 @@
+---
+title: "Monah Abou Alezz"
+image: "pic_monah_abou_alezz.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/monah-abou-alezz-phd-06a948ba"
+  - label: Twitter
+    url: "https://twitter.com/MonahAbouAlezz"
+  - label: GitHub
+    url: "https://github.com/monahton"
+  - label: Email
+    url: "mailto:aboualezz.monah@hsr.it"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Dr. Monah Abou Alezz is currently a Postdoctoral researcher in the field of gene therapy at the Bioinformatics Core of the San Raffaele Telethon Institute for Gene Therapy (TIGET) in Milan, Italy. He is part of the following scientific research units:
+
+- Retrovirus-host interactions and innate immunity to gene transfer group of Prof. Anna Kajaste-Rudnitski
+- Epigenetic regulation and targeted genome editing group of Prof. Angelo Lombardo
+- Human hematopoietic development and disease modeling group of Dr. Andrea Ditadi
+
+
+## Education
+
+**University of Pavia** | Pavia, Italy
+
+Ph.D. in Genetics, Molecular and Cellular Biology | October 2017 - September 2020
+
+**University of Pavia** | Pavia, Italy
+
+M.S. in Molecular Biology and Genetics | October 2015 - July 2017
+
+**Lebanese University** | Hadath, Lebanon
+
+B.S. in Life Sciences | October 2012 - July 2015
+
+## Experience
+
+**San Raffaele Hospital** | Postdoctoral researcher | October 2020 - Present
+
+**The Carpentries** | Instructor and lesson maintainer | September 2019 - Present
+
+**Polish Academy of Sciences** | Visiting research scientist | August 2020 - October 2020
+
